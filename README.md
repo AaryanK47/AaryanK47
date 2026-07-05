@@ -1,73 +1,123 @@
+<!-- Banner (Paste your banner markdown here) -->
+
 # Hi there 👋, I'm Aaryan Kumar
 
 ### Java Backend Developer | Spring Boot Enthusiast
 
-I'm a Computer Science student passionate about building full-stack applications using Java and Spring Boot.
+I'm a Computer Science Engineering student passionate about building scalable backend applications using Java, Spring Boot, and MySQL. I enjoy solving real-world problems through full-stack development and continuously learning modern software engineering practices.
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=60&lines=Java+Backend+Developer;Building+Full+Stack+Projects;Spring+Boot+Developer)](https://git.io/typing-svg)
+<!-- Typing Animation -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3FB950&center=true&vCenter=true&width=750&height=60&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Full+Stack+Applications;Learning+System+Design+%26+Docker;Open+to+Software+Engineering+Internships)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
-- Java
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Git
-- GitHub
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,bootstrap,git,github,docker,idea,vscode" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 Self Checkout System
+## 🛒 Self Checkout System
 
-A Spring Boot based retail checkout application featuring:
+A production-inspired retail self-checkout application developed using **Spring Boot**, **Thymeleaf**, and **MySQL**.
 
-- Barcode Scanning
-- Camera Scanner
-- Shopping Cart
-- Checkout
-- Payment Processing
-- Printable Receipt
+### Features
+
+- 📷 Offline Camera Barcode Scanner
+- 🔍 Barcode Scanning
+- 🛒 Dynamic Shopping Cart
+- ➕ Smart Quantity Management
+- 💳 Payment Processing
+- 🧾 Printable Receipt
+- 🔔 Scan Beep Sound
+- 🎉 Checkout Success Animation
+- 🌙 Dark Mode Support
+- ⚡ Loading Spinner
+- 📱 Responsive Bootstrap UI
+
+**Tech Used**
+
+`Java` `Spring Boot` `Spring MVC` `Spring Data JPA`
+`MySQL` `Thymeleaf` `Bootstrap` `JavaScript`
 
 ---
 
-### 📝 Quiz Portal Application
+## 📝 Quiz Portal Application
 
-Online Quiz Management System built using
+A complete online quiz management system built with Spring Boot following the MVC architecture.
 
-- Spring Boot
-- Thymeleaf
-- Spring MVC
-- MySQL
+### Features
+
+- 👨‍🎓 Student Login
+- 👨‍🏫 Admin Dashboard
+- 📝 Online Quiz Management
+- 📊 Score Evaluation
+- 📚 Subject-wise Quiz Support
+- 💾 MySQL Database Integration
+- 🎨 Responsive UI
+
+**Tech Used**
+
+`Java`
+`Spring Boot`
+`Spring MVC`
+`Spring Data JPA`
+`Thymeleaf`
+`MySQL`
+`Bootstrap`
 
 ---
 
-## 🌱 Currently Learning
+## 🤖 Pothole Image Detection
 
-- Spring Security
+An AI-powered application that detects potholes from road images using computer vision techniques to assist in smart road maintenance.
+
+---
+
+## 🎯 AIM Trainer
+
+A Python-based reflex training application designed to improve mouse accuracy and reaction speed through interactive gameplay.
+
+---
+
+# 🌱 Currently Learning
+
+- 🔐 Spring Security
 - JWT Authentication
 - REST APIs
 - Docker
+- System Design
+- Microservices
 
 ---
 
-## 📫 Connect with me
+# 📈 GitHub Stats
 
-LinkedIn:
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryanK47&theme=github-dark"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/aaryan-kumar-631884297
 
-GitHub:
+💻 **GitHub**
+
 https://github.com/AaryanK47
 
-Email:
-YOUR_EMAIL@gmail.com
+---
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*

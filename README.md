@@ -6,6 +6,10 @@ I'm a Computer Science student passionate about building full-stack applications
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=3FB950&center=true&vCenter=true&width=700&height=60&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Full+Stack+Projects;Learning+System+Design;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
+
+---
+
 ## 🚀 Tech Stack
 
 - Java
